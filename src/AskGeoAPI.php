@@ -11,7 +11,7 @@
  * @license     MIT License - @see README.md
  */
 
-namespace Pel\Helper;
+namespace Meezaan\AskGeo;
 
 class AskGeoAPI
 {
