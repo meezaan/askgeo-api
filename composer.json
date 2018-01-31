@@ -1,5 +1,5 @@
 {
-    "name": "pel/askgeo-api",
+    "name": "meezaan/askgeo-api",
     "description": "A class to consume askgeo's API.",
     "license": "MIT",
     "keywords": ["askgeo"],
@@ -7,15 +7,20 @@
         {
             "name": "Pierre-Emmanuel Lévesque",
             "email": "pierre.e.levesque@gmail.com"
+        },
+        
+        {
+            "name": "M A Wal-Ikram",
+            "email": "website@meezaan.net"
         }
     ],
     "require": {},
     "require-dev": {
-        "phpunit/phpunit": "4.0.*"
+        "phpunit/phpunit": "^6"
     },
     "autoload": {
         "psr-4": {
-            "Pel\\Helper\\": "src"
+            "Meezaan\\AskGeo\\": "src"
         }
     }
 }
